@@ -1,8 +1,8 @@
 # verificador_idade.py
 
-# Verificador de Idade 
+Verificador de idade simples feito em Python com entrada, validação e classificação por faixa etária.
 
-Este é um programa simples feito em Python que classifica uma pessoa de acordo com a idade informada.
+# Verificador de Idade 
 
 ## Funcionalidades
 
