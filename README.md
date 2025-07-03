@@ -56,7 +56,7 @@ while True:
         idade = int(idade_input)
         break
     else:
-        print("Idade inválida. Digite apenas números positivos.")
+        print("Idade inválida. Digite apenas números positivos.") 
 
 classificar_idade(nome, idade)
 
